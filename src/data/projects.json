@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Uppist",
+    "imageSrc": "projects/desktop-preview.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS", "API"],
+    "demo": "https://www.uppist.xyz"
+  },
+  {
+    "title": "Luround",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.luround.com"
+  },
+  {
+    "title": "Sql Advisory",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS", "API"],
+    "demo": "https://sqladvisory.co"
+  },
+  {
+    "title": "Advice Generator",
+    "imageSrc": "projects/desktop-preview.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS", "API"],
+    "demo": "https://olaniyan18.github.io/Advice-Generator/"
+  },
+  {
+    "title": "Time Tracking Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS"],
+    "demo": "https://olaniyan18.github.io/TimeTrackingDashboard/"
+  },
+  {
+    "title": "Age Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://olaniyan18.github.io/Age-Calculator/"
+  },
+  {
+    "title": "Frequently Asked Questions",
+    "imageSrc": "projects/desktop-preview.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS", "API"],
+    "demo": "https://olaniyan18.github.io/FAQ/"
+  },
+  {
+    "title": "Rating Design",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://olaniyan18.github.io/Rating-Design/"
+  },
+  {
+    "title": "To Do App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://olaniyan18.github.io/TodoApp/"
+  }
+]
