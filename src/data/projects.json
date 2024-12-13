@@ -1,65 +1,65 @@
 [
   {
     "title": "Uppist",
-    "imageSrc": "projects/desktop-preview.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/project.png",
+    "description": "Uppist is a software engineering company in that develops custom and proprietary software, mobile and web applications for businesses.",
     "skills": ["React", "CSS", "API"],
     "demo": "https://www.uppist.xyz"
   },
   {
     "title": "Luround",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Luround is an all-in-one client management app for businesses and individuals offering coaching, consulting and training services.",
     "skills": ["React", "CSS"],
     "demo": "https://www.luround.com"
   },
   {
-    "title": "Sql Advisory",
+    "title": "SASL",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "SquaredLAB Advisory Services Limited (“SASL”) unlocks peak performance for startups, SMEs, and established companies",
     "skills": ["React", "CSS", "API"],
     "demo": "https://sqladvisory.co"
   },
   {
     "title": "Advice Generator",
-    "imageSrc": "projects/desktop-preview.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/advice.jpg",
+    "description": "An online application that uses the Advice Slip API to provide motivational, random quotes.",
     "skills": ["React", "CSS", "API"],
     "demo": "https://olaniyan18.github.io/Advice-Generator/"
   },
   {
     "title": "Time Tracking Dashboard",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/time.jpg",
+    "description": "Creating a time-tracking dashboard with daily, weekly, and monthly views would enable users to better manage and monitor their time.",
     "skills": ["React", "CSS"],
     "demo": "https://olaniyan18.github.io/TimeTrackingDashboard/"
   },
   {
     "title": "Age Calculator",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/calculator.jpg",
+    "description": "The purpose of the application is to give users an easy-to-use method for calculating age in years, months, and days.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://olaniyan18.github.io/Age-Calculator/"
   },
   {
     "title": "Frequently Asked Questions",
-    "imageSrc": "projects/desktop-preview.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "CSS", "API"],
+    "imageSrc": "projects/faq.jpg",
+    "description": "The FAQ page is a tool created to offer concise, understandable responses to frequently asked questions. By reducing the need for direct customer service and making sure that important information is readily available.",
+    "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://olaniyan18.github.io/FAQ/"
   },
   {
     "title": "Rating Design",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/rating.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["HTML", "CSS"],
     "demo": "https://olaniyan18.github.io/Rating-Design/"
   },
   {
     "title": "To Do App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "TodoApp is a web application that helps users increase productivity by tracking their daily tasks. With a focus on utility and ease of use, the software lets users add, modify, remove, and mark activities as done.",
+    "skills": ["React", "CSS"],
     "demo": "https://olaniyan18.github.io/TodoApp/"
   }
 ]

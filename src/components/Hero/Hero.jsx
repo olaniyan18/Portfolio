@@ -11,7 +11,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Kafayah</h1>
         <p className={styles.description}>
-          I'm a Front-end developer with 1 year of experience using React.
+          With more than a year of experience, I am a front-end developer with a
+          focus on leveraging React to create dynamic and responsive user
+          interfaces.
         </p>
         <a
           href='mailto:olaniyanfeyikemi@gmail.com'
