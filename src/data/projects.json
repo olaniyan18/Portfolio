@@ -51,7 +51,7 @@
   {
     "title": "Rating Design",
     "imageSrc": "projects/rating.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "The Rating Design Component is a reusable and visually appealing UI element designed to allow users to provide feedback by selecting a rating, typically on a numerical or star-based scale",
     "skills": ["HTML", "CSS"],
     "demo": "https://olaniyan18.github.io/Rating-Design/"
   },
