@@ -1,5 +1,13 @@
 [
   {
+    "title": "October Orane Initiative",
+    "imageSrc": "projects/project.png",
+    "description": "The October Orange Initiative (OOI) is a nonprofit organization focused on creating positive change in communities.",
+    "skills": ["React", "CSS", "API"],
+    "demo": "https://octoberorange.org/"
+  },
+
+  {
     "title": "Uppist",
     "imageSrc": "projects/project.png",
     "description": "Uppist is a software engineering company in that develops custom and proprietary software, mobile and web applications for businesses.",
