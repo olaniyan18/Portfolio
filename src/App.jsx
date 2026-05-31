@@ -1,22 +1,26 @@
-import styles from "./App.module.css";
-import { About } from "./components/About/About";
-import { Contact } from "./components/Contact/Contact";
-import { Experience } from "./components/Experience/Experience";
-import { Hero } from "./components/Hero/Hero";
-import { Navbar } from "./components/Navbar/Navbar";
-import { Projects } from "./components/Projects/Projects";
+/** @format */
 
-function App() {
+import React, { useState } from "react";
+import Navigation from "./components/Navigation";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+
+export default function App() {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   return (
-    <div className={styles.App}>
-      <Navbar />
+    <div className='bg-linear-to-b from-slate-950 via-slate-900 to-slate-950 text-white overflow-x-hidden'>
+      <Navigation isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
       <Hero />
       <About />
-      <Experience />
       <Projects />
+      <Skills />
       <Contact />
+      <Footer />
     </div>
   );
 }
-
-export default App;
