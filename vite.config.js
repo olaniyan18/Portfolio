@@ -13,7 +13,6 @@ export default defineConfig({
   build: {
     outDir: "dist",
     sourcemap: false,
-    // Use Vite's default minifier (esbuild) so build works without an extra terser dependency
     minify: "esbuild",
   },
 });
